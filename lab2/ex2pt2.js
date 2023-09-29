@@ -1,5 +1,5 @@
 //accept a value
-const SayHello = function Hello(myVal){
+const SayHello = function Hello(myVal) {
     //return
     return myVal;
 }
